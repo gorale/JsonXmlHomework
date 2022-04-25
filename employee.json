@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Gor",
+    "lastName": "Aleksanyan",
+    "age": 24,
+    "address": {
+      "city": "Hrazdan",
+      "country": "Armenia",
+      "street": "Yerevanyan",
+      "postalCode": 21
+    },
+    "phone": {
+      "number": 776969488,
+      "type": "Phone"
+    }
+  },
+  {
+    "firstName": "Tigran",
+    "lastName": "Tigranyan",
+    "age": 29,
+    "address": {
+      "city": "Hrazdan",
+      "country": "Armenia",
+      "street": "Raykom",
+      "postalCode": 37
+    },
+    "phone": {
+      "number": 44122312,
+      "type": "Phone"
+    }
+  }
+]

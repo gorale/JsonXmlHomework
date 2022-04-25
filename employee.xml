@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeeXML>
+    <firstName>Gor</firstName>
+    <lastName>Aleksanyan</lastName>
+    <age>24</age>
+    <address>
+        <city>Hrazdan</city>
+        <country>Armenia</country>
+        <postalCode>21</postalCode>
+        <street>Yerevanyan</street>
+    </address>
+    <phone>
+        <number>776969488</number>
+        <type>Phone</type>
+    </phone>
+</employeeXML>
